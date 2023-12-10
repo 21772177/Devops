@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAS32B5QZSAIZU6GVO"
-  secret_key = "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"
+  access_key = "xxxxxxxxx"
+  secret_key = "xxxxxxxxxx"
   region = "eu-north-1"
 }
 resource "aws_instance" "Nikhil" {
